@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 
 export default defineConfig({
-  base: '/vayagra/', 
+  base: '/E-commerce/', 
   plugins: [react(), tailwindcss()],
 })
